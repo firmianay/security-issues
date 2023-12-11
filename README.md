@@ -25,6 +25,7 @@
 | [Peak](https://github.com/peng-zhihui/Peak) | [CWE-121: Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html) | [#27](https://github.com/peng-zhihui/Peak/issues/27) | |
 | [OpenDDS](https://github.com/objectcomputing/OpenDDS) | [CWE-121: Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html) | [#3687](https://github.com/objectcomputing/OpenDDS/issues/3687) | |
 | [libtiff](https://gitlab.com/libtiff/libtiff) | [CWE-835: Infinite Loop](https://cwe.mitre.org/data/definitions/835.html) | [#455](https://gitlab.com/libtiff/libtiff/-/issues/455) | [CVE-2022-40090](https://nvd.nist.gov/vuln/detail/CVE-2022-40090) |
+| [中华万年历](https://www.zhwnl.cn/) | | | |
 
 ## 关注我们
 
