@@ -17,27 +17,17 @@ public class WidgetSkinProvider extends ContentProvider {
 
     public static final Uri f18830n = Uri.parse("content://cn.etouch.ecalendar.cacheprovider");
 
-    @Override // android.content.ContentProvider
-    public int delete(@NonNull Uri uri, String str, String[] strArr) {
-        return 0;
-    }
-
-    @Override // android.content.ContentProvider
+    @Override
     public String getType(@NonNull Uri uri) {
         return uri.getQueryParameter("type");
     }
 
-    @Override // android.content.ContentProvider
-    public Uri insert(@NonNull Uri uri, ContentValues contentValues) {
-        throw new UnsupportedOperationException("Not yet implemented");
-    }
-
-    @Override // android.content.ContentProvider
+    @Override
     public boolean onCreate() {
         return false;
     }
 
-    @Override // android.content.ContentProvider
+    @Override
     public ParcelFileDescriptor openFile(@NonNull Uri uri, @NonNull String str) throws FileNotFoundException {
         String path = uri.getPath();
         if (!TextUtils.isEmpty(path)) {
@@ -46,14 +36,9 @@ public class WidgetSkinProvider extends ContentProvider {
         throw new FileNotFoundException("path is null");
     }
 
-    @Override // android.content.ContentProvider
+    @Override
     public Cursor query(@NonNull Uri uri, String[] strArr, String str, String[] strArr2, String str2) {
         return null;
-    }
-
-    @Override // android.content.ContentProvider
-    public int update(@NonNull Uri uri, ContentValues contentValues, String str, String[] strArr) {
-        throw new UnsupportedOperationException("Not yet implemented");
     }
 }
 ```
