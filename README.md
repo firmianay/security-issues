@@ -27,6 +27,9 @@
 | [libtiff](https://gitlab.com/libtiff/libtiff) | [CWE-835: Infinite Loop](https://cwe.mitre.org/data/definitions/835.html) | [#455](https://gitlab.com/libtiff/libtiff/-/issues/455) | [CVE-2022-40090](https://nvd.nist.gov/vuln/detail/CVE-2022-40090) |
 | [中华万年历](https://www.liqucn.com/rj/15731.shtml) | | | |
 | [FitPro](https://www.liqucn.com/rj/1210874.shtml) | | | |
+| [Zepp](https://www.liqucn.com/rj/691654.shtml) | | | |
+| [荣大智慧云](https://www.liqucn.com/rj/188938.shtml) | | | |
+| [青岛地铁](https://www.liqucn.com/rj/954072.shtml) | | | |
 
 ## 关注我们
 
