@@ -4,6 +4,7 @@ com.campmobile.snowcamera contains an export component AdSdkH5Activity, which al
 
 - package: com.campmobile.snowcamera
 - version: 12.4.5
+- url: https://os-android.liqucn.com/rj/683475.shtml
 
 ```xml
 <activity

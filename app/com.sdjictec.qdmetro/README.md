@@ -4,6 +4,7 @@ com.sdjictec.qdmetro contains an export component AdSdkH5Activity, which allows 
 
 - package: com.sdjictec.qdmetro
 - version: 4.2.2
+- url: https://os-android.liqucn.com/rj/954072.shtml
 
 ```xml
 <activity

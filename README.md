@@ -25,12 +25,13 @@
 | [Peak](https://github.com/peng-zhihui/Peak) | [CWE-121: Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html) | [#27](https://github.com/peng-zhihui/Peak/issues/27) | |
 | [OpenDDS](https://github.com/objectcomputing/OpenDDS) | [CWE-121: Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html) | [#3687](https://github.com/objectcomputing/OpenDDS/issues/3687) | |
 | [libtiff](https://gitlab.com/libtiff/libtiff) | [CWE-835: Infinite Loop](https://cwe.mitre.org/data/definitions/835.html) | [#455](https://gitlab.com/libtiff/libtiff/-/issues/455) | [CVE-2022-40090](https://nvd.nist.gov/vuln/detail/CVE-2022-40090) |
-| [中华万年历](https://www.liqucn.com/rj/15731.shtml) | | | [CVE-2023-51006](https://nvd.nist.gov/vuln/detail/CVE-2023-51006) |
-| [FitPro](https://www.liqucn.com/rj/1210874.shtml) | | | [CVE-2023-51007](https://nvd.nist.gov/vuln/detail/CVE-2023-51007) |
-| [Zepp](https://www.liqucn.com/rj/691654.shtml) | | | [CVE-2023-51008](https://nvd.nist.gov/vuln/detail/CVE-2023-51008) |
-| [荣大智慧云](https://www.liqucn.com/rj/188938.shtml) | | | [CVE-2023-51009](https://nvd.nist.gov/vuln/detail/CVE-2023-51009) |
-| [青岛地铁](https://www.liqucn.com/rj/954072.shtml) | | | [CVE-2023-51010](https://nvd.nist.gov/vuln/detail/CVE-2023-51010) |
-| [B612咔叽](https://www.liqucn.com/rj/683475.shtml) | | | |
+| [中华万年历](./app/cn.etouch.ecalendar/) | | | [CVE-2023-51006](https://nvd.nist.gov/vuln/detail/CVE-2023-51006) |
+| [FitPro](./app/cn.xiaofengkj.fitpro/) | | | [CVE-2023-51007](https://nvd.nist.gov/vuln/detail/CVE-2023-51007) |
+| [Zepp](./app/com.huami.watch.hmwatchmanager/) | | | [CVE-2023-51008](https://nvd.nist.gov/vuln/detail/CVE-2023-51008) |
+| [荣大智慧云](./app/com.rongda.saas_cloud/) | | | [CVE-2023-51009](https://nvd.nist.gov/vuln/detail/CVE-2023-51009) |
+| [青岛地铁](./app/com.sdjictec.qdmetro/) | | | [CVE-2023-51010](https://nvd.nist.gov/vuln/detail/CVE-2023-51010) |
+| [B612咔叽](./app/com.campmobile.snowcamera/) | | | |
+| [精工计算器](./app/com.sf.calculatornew/) | | | |
 
 ## 关注我们
 

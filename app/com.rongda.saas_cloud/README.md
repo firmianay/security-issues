@@ -4,6 +4,7 @@ com.rongda.saas_cloud contains an export component TutorialExaminationActivity, 
 
 - package: com.rongda.saas_cloud
 - version: 2.3.0
+- url: https://os-android.liqucn.com/rj/188938.shtml
 
 ```xml
 <activity

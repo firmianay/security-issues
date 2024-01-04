@@ -4,6 +4,7 @@ cn.xiaofengkj.fitpro contains an export component LocalAssetHtmlActivity, which 
 
 - package: cn.xiaofengkj.fitpro
 - version: 2.4.8
+- url: https://os-android.liqucn.com/rj/1210874.shtml
 
 ```xml
 <activity android:theme="@style/RtkAppTheme.NoActionBar" android:label="@string/rtk_dfu_title_settings" android:name="com.realsil.sdk.support.p641ui.LocalAssetHtmlActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="screenSize|orientation|keyboardHidden|keyboard">

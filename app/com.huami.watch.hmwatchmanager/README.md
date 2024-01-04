@@ -4,6 +4,7 @@ com.huami.watch.hmwatchmanager contains an export component JsSettingActivity, w
 
 - package: com.huami.watch.hmwatchmanager
 - version: 8.0.1
+- url: https://os-android.liqucn.com/rj/691654.shtml
 
 ```xml
 <activity android:theme="@style/FullScreenTheme" android:name="com.huami.applet.setting.JsSettingActivity" android:exported="true" android:launchMode="singleTask" android:screenOrientation="portrait">

@@ -1,9 +1,10 @@
 # cn.etouch.ecalendar
 
+The Chinese Perpetual Calendar is the highest-ranking calendar application on the market. It exposes a Content Provider to the outside world. Its original intention is to provide skin pictures for weather gadgets. However, because the openFile method does not perform any filtering or inspection on the external incoming URI, attackers Can read any file, including user sensitive information.
+
 - package: cn.etouch.ecalendar
 - version: 9.0.0
-
-The Chinese Perpetual Calendar is the highest-ranking calendar application on the market. It exposes a Content Provider to the outside world. Its original intention is to provide skin pictures for weather gadgets. However, because the openFile method does not perform any filtering or inspection on the external incoming URI, attackers Can read any file, including user sensitive information.
+- url: https://os-android.liqucn.com/rj/15731.shtml
 
 ```xml
 <provider
