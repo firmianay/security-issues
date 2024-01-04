@@ -15,3 +15,9 @@ com.sf.calculatornew has an Android manifest file that contains an entry with th
     android:allowBackup="true"
     android:supportsRtl="true" android:networkSecurityConfig="@xml/network_security_config" android:roundIcon="@drawable/icon_cal_new" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:requestLegacyExternalStorage="true">
 ```
+
+PoC:
+
+```sh
+$ adb backup -apk -shared -f <backup-file-name>.ab <package-name>
+```
